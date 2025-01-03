@@ -44,12 +44,29 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+![image](https://github.com/user-attachments/assets/22e1fea1-5b41-47f7-89fd-a6467e08412b)
+
+
+/* 
+
+Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
+Developed by: SRIRAM.E
+
+RegisterNumber:24901134
+
 */
 
 **RTL Schematic**
 
+![image](https://github.com/user-attachments/assets/98206f15-3526-4acd-9d2b-556951c397f7)
+
+
+
 **Output Timing Waveform**
+
+![image](https://github.com/user-attachments/assets/a11ae989-c14a-43bb-a606-75ec080c625e)
+
 
 **Result:**
 
